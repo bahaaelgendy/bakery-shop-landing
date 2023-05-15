@@ -1,0 +1,283 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+body {
+    font-family: 'Alegreya+Sans:400', 'Alegreya:400&amp;subset=latin';
+}
+
+.clr {
+    clear: both;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/* Start Sec Family */
+.navbar {
+    margin-top: 30px;
+}
+
+.navbar a {
+    color: #fff;
+}
+
+.collapse {
+    float: right;
+    width: 50%;
+}
+
+.navbar-brand {
+    width: 50%;
+    float: left;
+}
+
+.navbar-brand .img {
+    width: 177px;
+    margin-left: 60px;
+
+}
+
+.nav-item ul {
+    color: #fff;
+}
+
+.nav-item {
+    float: left;
+    padding: 20px 20px;
+}
+
+
+
+.family {
+    background-image: url(../img/0_v_6U4G1WHNa_mjeb.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    overflow: auto;
+}
+
+.family .text_family {
+    text-align: center;
+    margin-top: 65px;
+    padding: 20px;
+    color: #fff;
+}
+
+.family .text_family p {
+    font-size: 22px;
+    padding-bottom: 10px;
+}
+
+.family .text_family h1 {
+    font-size: 76px;
+    margin: 15px 0;
+}
+
+.text_family .btn {
+    padding: 15px 28px;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    margin-right: 5px;
+    background-color: #8e7754;
+    border: 2px solid #8e7754;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.text_family .btn2 {
+    background-color: transparent;
+    border: 2px solid #fff;
+}
+
+/* End Sec Family */
+
+/* Start sec who  */
+.float {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
+.info .img {
+    padding: 80px;
+}
+
+.who {
+    margin-top: 60px;
+}
+
+.who h2 {
+    margin-bottom: 25px;
+    font-size: 32px;
+    color: #303030;
+    font-weight: 400;
+}
+
+.who p {
+    margin-bottom: 25px;
+    line-height: 2;
+    color: #686868;
+    font-size: 17px;
+}
+
+.who li {
+    padding: 10px;
+    color: #686868;
+}
+
+/* End  sec who  */
+
+
+/* Start Sec Baking */
+.text {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.text p {
+    padding: 17px;
+}
+
+.OurTeam {
+    padding: 70px 0;
+    text-align: center;
+}
+
+.item {
+    float: left;
+    width: 33.33333%;
+    padding: 20px;
+}
+
+.item h2 {
+    padding: 10px;
+    font-size: 22px;
+    color: #303030;
+}
+
+
+.item p {
+    padding: 10px;
+    font-size: 17px;
+    color: #686868;
+}
+
+/* End Sec Baking */
+
+/* Start sec loction  */
+
+.loction {
+    background-color: #68686818;
+}
+
+.our-loction {
+    padding-top: 140px;
+    padding-right: 50px;
+}
+
+.our-loction h2 {
+    margin-bottom: 26px;
+    font-size: 26px;
+    color: #303030;
+    font-weight: 400;
+}
+
+
+.our-loction p {
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #686868;
+    line-height: 2;
+
+}
+
+.our-img {
+    padding: 30px;
+}
+
+/* End sec loction  */
+
+
+
+/*   Start Sec Contact Information */
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+/*   End Sec Contact Information */
+
+.footer {
+    background-color:  #403d38;
+}
+
+.footer-top {
+    width: 25%;
+    padding: 60px;
+    float: left;
+}
+.footer-top  p  , ul{
+    font-size: 14px;
+    color: #797979;
+    margin-bottom: 20px;
+    font-weight: 300;
+}
+
+.footer-top h2 {
+    color: #fff;
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+
+.footer-top ul li {
+    border-bottom: 1px solid  rgba(255,255,255,0.05);
+    margin-bottom: 6px;
+    padding-bottom: 7px;
+}
+
+.ftp {
+    background-image: url(../img/contact-details-map.png);
+    background-repeat: no-repeat;
+    background-size: 270px;
+    background-position: bottom right;
+}
+
+.ftp li {
+    color: #A9A9A9;
+}
+
+
+.footer-bottom {
+    background-color:#353330 ;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    text-align: center;
+
+}
+.img-footer {
+    width: 25%;
+}
+
+
+
